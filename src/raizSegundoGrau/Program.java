@@ -13,7 +13,7 @@ public class Program {
 		double De, X1, X2;
 		
 		
-		System.out.print("Digite os membros da equação do segundo grau: ");
+		System.out.print("Digite o valor de A, B, e C: ");
 		A = sc.nextInt();
 		B = sc.nextInt();
 		C = sc.nextInt();
